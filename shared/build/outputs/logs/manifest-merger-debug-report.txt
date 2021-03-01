@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jabousk/AndroidStudioProjects/RealmTest/shared/src/androidMain/AndroidManifest.xml:2:1-110
+INJECTED from /Users/jabousk/AndroidStudioProjects/RealmTest/shared/src/androidMain/AndroidManifest.xml:2:1-110
+INJECTED from /Users/jabousk/AndroidStudioProjects/RealmTest/shared/src/androidMain/AndroidManifest.xml:2:1-110
+	package
+		ADDED from /Users/jabousk/AndroidStudioProjects/RealmTest/shared/src/androidMain/AndroidManifest.xml:2:70-108
+		INJECTED from /Users/jabousk/AndroidStudioProjects/RealmTest/shared/src/androidMain/AndroidManifest.xml
+		INJECTED from /Users/jabousk/AndroidStudioProjects/RealmTest/shared/src/androidMain/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jabousk/AndroidStudioProjects/RealmTest/shared/src/androidMain/AndroidManifest.xml:2:11-69
+uses-sdk
+INJECTED from /Users/jabousk/AndroidStudioProjects/RealmTest/shared/src/androidMain/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/jabousk/AndroidStudioProjects/RealmTest/shared/src/androidMain/AndroidManifest.xml
+INJECTED from /Users/jabousk/AndroidStudioProjects/RealmTest/shared/src/androidMain/AndroidManifest.xml
+INJECTED from /Users/jabousk/AndroidStudioProjects/RealmTest/shared/src/androidMain/AndroidManifest.xml
+INJECTED from /Users/jabousk/AndroidStudioProjects/RealmTest/shared/src/androidMain/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/jabousk/AndroidStudioProjects/RealmTest/shared/src/androidMain/AndroidManifest.xml
+		ADDED from /Users/jabousk/AndroidStudioProjects/RealmTest/shared/src/androidMain/AndroidManifest.xml
+		INJECTED from /Users/jabousk/AndroidStudioProjects/RealmTest/shared/src/androidMain/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/jabousk/AndroidStudioProjects/RealmTest/shared/src/androidMain/AndroidManifest.xml
+		ADDED from /Users/jabousk/AndroidStudioProjects/RealmTest/shared/src/androidMain/AndroidManifest.xml
+		INJECTED from /Users/jabousk/AndroidStudioProjects/RealmTest/shared/src/androidMain/AndroidManifest.xml
