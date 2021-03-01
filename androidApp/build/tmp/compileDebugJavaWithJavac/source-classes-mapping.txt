@@ -1,0 +1,2 @@
+com/example/realmtest/androidApp/BuildConfig.java
+ com.example.realmtest.androidApp.BuildConfig

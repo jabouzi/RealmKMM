@@ -1,0 +1,2 @@
+com/example/realmtest/shared/BuildConfig.java
+ com.example.realmtest.shared.BuildConfig
